@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">НМедиа</string>
     <string name="helloText">НМедиа!</string>
+    <string name="avatar">Пустой Аватар</string>
+    <string name="likes_amount">Количество лайков</string>
 </resources>
